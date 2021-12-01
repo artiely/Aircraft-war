@@ -1,0 +1,17 @@
+{
+  "fire": {
+    "x": 0,
+    "y": 0,
+    "width": 450,
+    "height": 148,
+    "sliceX": 5,
+    "anims": {
+      "idle": {
+        "from": 0,
+        "to": 4,
+        "speed": 30,
+        "loop": true
+      }
+    }
+  }
+}

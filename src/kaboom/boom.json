@@ -1,0 +1,18 @@
+{
+  "boom": {
+    "x": 0,
+    "y": 0,
+    "width": 586,
+    "height": 99,
+    "sliceX": 6,
+    "anims": {
+      "idle": {
+        "from": 0,
+        "to": 5,
+        "speed": 30,
+        "loop": true
+      }
+    }
+    
+  }
+}
